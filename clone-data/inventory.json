@@ -1,0 +1,47 @@
+{
+  "source": "https://mpesamz.lovable.app/",
+  "language": "pt",
+  "title": "2 Tentativas Grátis — Roleta de Prémios",
+  "sections": [
+    {
+      "index": 1,
+      "type": "game",
+      "selector": "main > .game-background",
+      "content": [
+        "TENTE A SUA SORTE!",
+        "2 TENTATIVAS GRÁTIS!",
+        "Não custa nada — clique no botão GIRAR!",
+        "12-segment prize wheel",
+        "GIRAR AGORA!",
+        "PESSOAS ONLINE",
+        "TEMPO RESTANTE",
+        "Mozambican metical banknotes"
+      ]
+    },
+    {
+      "index": 2,
+      "type": "first-spin-result",
+      "selector": ".overlay-dark > .fail-card",
+      "content": ["Ainda tem 1 tentativa gratuita", "TENTAR NOVAMENTE"]
+    },
+    {
+      "index": 3,
+      "type": "second-spin-result",
+      "selector": ".overlay-dark > .stats-box",
+      "content": [
+        "Vitória",
+        "Parabéns! Você ganhou 19.000 Meticais!",
+        "Deposit and registration instructions",
+        "REGISTRE-SE AGORA!"
+      ]
+    }
+  ],
+  "assets": [
+    "/public/source-site.css",
+    "/public/favicon.ico",
+    "/public/images/bandeira.png",
+    "/public/images/nota.webp",
+    "/public/images/nota200.jpg",
+    "/public/images/nota500.jpg"
+  ]
+}
