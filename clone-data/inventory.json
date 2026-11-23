@@ -38,7 +38,7 @@
   ],
   "assets": [
     "/public/source-site.css",
-    "/public/favicon.ico",
+    "/public/favicon.svg",
     "/public/images/bandeira.png",
     "/public/images/nota.webp",
     "/public/images/nota200.jpg",

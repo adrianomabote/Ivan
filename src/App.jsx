@@ -25,7 +25,7 @@ const BANKNOTES = [
 
 const SPIN_DURATION = 5000;
 const SPIN_FALLBACK = 5300;
-const AFFILIATE_URL = "https://go.aff.nicebetpartners.com/w8wycej5";
+const AFFILIATE_URL = "https://abre.ai/os9z";
 
 function pointAt(angle, radius) {
   const radians = ((angle - 90) * Math.PI) / 180;
