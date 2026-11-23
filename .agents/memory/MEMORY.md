@@ -1,1 +1,2 @@
 - [Website ownership](website-ownership.md) — User confirmed they own the source site and want it migrated to Replit.
+- [External deployment lockfiles](external-deployment-lockfiles.md) — Check that npm tarball URLs in the lockfile are public before deploying outside Replit.
